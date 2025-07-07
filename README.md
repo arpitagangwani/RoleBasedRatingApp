@@ -65,7 +65,7 @@ A full-stack web application built to fulfill the **Coding Challenge** requireme
 
 | Field     | Rule                                                                 |
 |-----------|----------------------------------------------------------------------|
-| Name      | Min 20, Max 60 characters                                            |
+| Name      | Min 03, Max 60 characters                                            |
 | Address   | Max 400 characters                                                   |
 | Password  | 8-16 characters, at least one uppercase & one special character      |
 | Email     | Must be a valid email format                                         |
